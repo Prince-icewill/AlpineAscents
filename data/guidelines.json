@@ -1,0 +1,62 @@
+{
+  "intro": "A plain checklist for planning a first serious mountain trip. It is not a replacement for a course or a guide.",
+  "sections": [
+    {
+      "title": "Before you go",
+      "icon": "bi-calendar-check",
+      "items": [
+        "Get fit for the trip you are planning. Long days with a loaded pack are the best training.",
+        "Take a course in basic mountaineering skills: ropework, crampons, ice axe and self-arrest.",
+        "Start on easy peaks and build up. Do not jump to a big mountain on your first trip.",
+        "See a doctor, especially if you have a heart or lung condition, and get your vaccinations.",
+        "Buy travel insurance that covers rescue at the altitude you will be at."
+      ]
+    },
+    {
+      "title": "What to carry",
+      "icon": "bi-backpack",
+      "items": [
+        "Map, compass and a charged phone or GPS.",
+        "Head torch with spare batteries.",
+        "Sun protection: glacier glasses, sun cream and a hat.",
+        "First aid kit and a bivouac sack or emergency blanket.",
+        "Enough food and water, plus a spare day of food.",
+        "Extra layers, hat, gloves and a waterproof shell."
+      ]
+    },
+    {
+      "title": "On the mountain",
+      "icon": "bi-signpost-split",
+      "items": [
+        "Tell somebody your plan and when you expect to be back.",
+        "Check the forecast the night before and again in the morning.",
+        "Set a turnaround time and keep to it, whatever the weather looks like.",
+        "Eat and drink little and often.",
+        "Watch your partners, and speak up if someone looks unwell."
+      ]
+    },
+    {
+      "title": "Respect",
+      "icon": "bi-heart",
+      "items": [
+        "Leave no trace. Carry your rubbish down, including human waste where it is required.",
+        "Respect local customs and sacred peaks.",
+        "Pay guides, porters and cooks fairly, and make sure they have proper kit and insurance.",
+        "Do not leave fixed ropes or gear behind.",
+        "Follow permit rules for the country you are in."
+      ]
+    }
+  ],
+  "essentials": [
+    "Navigation",
+    "Sun protection",
+    "Insulation",
+    "Illumination",
+    "First aid supplies",
+    "Fire",
+    "Repair kit and tools",
+    "Nutrition",
+    "Hydration",
+    "Emergency shelter"
+  ]
+}

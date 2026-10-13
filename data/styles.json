@@ -1,0 +1,100 @@
+{
+  "intro": "People say 'mountaineering' as if it were one activity. In practice it covers several styles that call for different skills, gear and attitudes to risk. Most climbers mix them over the years.",
+  "styles": [
+    {
+      "name": "Alpine style",
+      "icon": "bi-lightning-charge",
+      "summary": "Go light, go fast, and do it in one push. No fixed camps, no fixed ropes, no porters carrying loads for you.",
+      "good": "Fast, low impact, and the most respected way to do hard routes.",
+      "bad": "Little margin. If the weather turns you have little food, little fuel and a long way down.",
+      "example": "Climbing the Matterhorn from a hut in the Alps in a single day."
+    },
+    {
+      "name": "Expedition style",
+      "icon": "bi-buildings",
+      "summary": "Also called siege style. A team builds a chain of camps up the mountain and ferries food and gear up over several weeks.",
+      "good": "Makes very high mountains possible for large teams and gives plenty of time to acclimatise.",
+      "bad": "Costs more, needs more people, and leaves more rubbish if the team is careless.",
+      "example": "Everest from the Nepal side, with Base Camp and four camps above it."
+    },
+    {
+      "name": "Rock climbing",
+      "icon": "bi-bricks",
+      "summary": "Moving up rock using hands and feet, with ropes and protection for safety. Grades run from easy scrambles to near-impossible overhangs.",
+      "good": "Easy to practise close to home, and the skills carry over to big mountains.",
+      "bad": "Rock on a big mountain is loose, cold and wet, which makes it very different from a gym or a crag.",
+      "example": "The Hornbein Couloir or the rock bands on Everest's north side."
+    },
+    {
+      "name": "Ice and mixed climbing",
+      "icon": "bi-snow2",
+      "summary": "Climbing frozen waterfalls, glacier ice and snow-covered rock with two ice tools and crampons.",
+      "good": "Opens the winter season and many of the world's classic north faces.",
+      "bad": "Conditions change from day to day. A route that is good in January can be gone by March.",
+      "example": "The north face of the Eiger, or a grade WI4 waterfall."
+    },
+    {
+      "name": "Glacier and snow climbing",
+      "icon": "bi-cloud-snow",
+      "summary": "Roped travel over glaciers and snow slopes to non-technical summits. This is how most people start.",
+      "good": "A good first step into high mountains without needing hard climbing skills.",
+      "bad": "Crevasses and avalanches are real hazards even on easy ground.",
+      "example": "Mont Blanc by the standard route, or Kilimanjaro's upper slopes."
+    },
+    {
+      "name": "Ski mountaineering",
+      "icon": "bi-wind",
+      "summary": "Climb on skis with climbing skins, then take them off and ski down. A new Olympic sport since 2026, which is why you will hear 'skimo' more often.",
+      "good": "Fast descents, and a long season in the Alps and the Rockies.",
+      "bad": "You need both decent skiing and decent avalanche judgment.",
+      "example": "The Haute Route from Chamonix to Zermatt."
+    },
+    {
+      "name": "Guided climbing",
+      "icon": "bi-people",
+      "summary": "A qualified guide leads and makes the decisions. Many people do their first big peaks this way.",
+      "good": "A good way to learn, and the sensible choice on unfamiliar high mountains.",
+      "bad": "Guided does not mean safe. You are still responsible for your own fitness and for speaking up.",
+      "example": "A guided ascent of Aconcagua or Denali."
+    },
+    {
+      "name": "Solo climbing",
+      "icon": "bi-person",
+      "summary": "Climbing alone, sometimes with a rope for protection, sometimes without ('free solo').",
+      "good": "Complete independence.",
+      "bad": "Nobody to rescue you. Some countries now restrict solo climbs on their biggest peaks.",
+      "example": "Messner's solo Everest climb in 1980."
+    }
+  ],
+  "grades": {
+    "title": "How climbs are graded",
+    "text": "No single grading system covers everything. These are the ones you will meet most often. Grades are opinions, so always check a local guidebook.",
+    "rows": [
+      {
+        "system": "Alpine overall (French)",
+        "scale": "F, PD, AD, D, TD, ED",
+        "meaning": "From 'easy' (F) through 'a bit difficult' (PD) up to 'extremely difficult' (ED). Covers the whole route, not only the hardest move."
+      },
+      {
+        "system": "Rock (UIAA)",
+        "scale": "I to XII",
+        "meaning": "Roman numerals used across Europe. Grade V is where most beginners stop being comfortable."
+      },
+      {
+        "system": "Rock (Yosemite, YDS)",
+        "scale": "5.0 to 5.15",
+        "meaning": "Used in North America. 5.10 and up is hard rock climbing."
+      },
+      {
+        "system": "Water ice",
+        "scale": "WI1 to WI7",
+        "meaning": "WI1 is a frozen stream you can walk up. WI5 and up is steep, thin and serious."
+      },
+      {
+        "system": "Snow slope",
+        "scale": "Angle in degrees",
+        "meaning": "Avalanche risk is highest on slopes around 30 to 45 degrees."
+      }
+    ]
+  }
+}

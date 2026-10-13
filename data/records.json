@@ -1,0 +1,262 @@
+{
+  "intro": "Records are a fun way into the sport, but they change. Where a record has moved in the last few years, the date is shown. Heights are rounded to the nearest metre.",
+  "asOf": "Spring 2026 season",
+  "peaks": [
+    {
+      "name": "Mount Everest",
+      "height": 8849,
+      "country": "Nepal / China",
+      "first": 1953,
+      "team": "Edmund Hillary, Tenzing Norgay"
+    },
+    {
+      "name": "K2",
+      "height": 8611,
+      "country": "Pakistan / China",
+      "first": 1954,
+      "team": "Achille Compagnoni, Lino Lacedelli"
+    },
+    {
+      "name": "Kangchenjunga",
+      "height": 8586,
+      "country": "Nepal / India",
+      "first": 1955,
+      "team": "Joe Brown, George Band"
+    },
+    {
+      "name": "Lhotse",
+      "height": 8516,
+      "country": "Nepal / China",
+      "first": 1956,
+      "team": "Ernst Reiss, Fritz Luchsinger"
+    },
+    {
+      "name": "Makalu",
+      "height": 8485,
+      "country": "Nepal / China",
+      "first": 1955,
+      "team": "Lionel Terray, Jean Couzy"
+    },
+    {
+      "name": "Cho Oyu",
+      "height": 8188,
+      "country": "Nepal / China",
+      "first": 1954,
+      "team": "Herbert Tichy, Sepp Jöchler, Pasang Dawa Lama"
+    },
+    {
+      "name": "Dhaulagiri I",
+      "height": 8167,
+      "country": "Nepal",
+      "first": 1960,
+      "team": "An international team led by Max Eiselin"
+    },
+    {
+      "name": "Manaslu",
+      "height": 8163,
+      "country": "Nepal",
+      "first": 1956,
+      "team": "Toshio Imanishi, Gyalzen Norbu"
+    },
+    {
+      "name": "Nanga Parbat",
+      "height": 8126,
+      "country": "Pakistan",
+      "first": 1953,
+      "team": "Hermann Buhl (solo)"
+    },
+    {
+      "name": "Annapurna I",
+      "height": 8091,
+      "country": "Nepal",
+      "first": 1950,
+      "team": "Maurice Herzog, Louis Lachenal"
+    },
+    {
+      "name": "Gasherbrum I",
+      "height": 8080,
+      "country": "Pakistan / China",
+      "first": 1958,
+      "team": "Pete Schoening, Andy Kauffman"
+    },
+    {
+      "name": "Broad Peak",
+      "height": 8051,
+      "country": "Pakistan / China",
+      "first": 1957,
+      "team": "Marcus Schmuck, Fritz Wintersteller, Kurt Diemberger, Hermann Buhl"
+    },
+    {
+      "name": "Gasherbrum II",
+      "height": 8035,
+      "country": "Pakistan / China",
+      "first": 1956,
+      "team": "Fritz Moravec, Josef Larch, Hans Willenpart"
+    },
+    {
+      "name": "Shishapangma",
+      "height": 8027,
+      "country": "China (Tibet)",
+      "first": 1964,
+      "team": "A Chinese expedition led by Xu Jing"
+    }
+  ],
+  "seven": [
+    {
+      "name": "Mount Everest",
+      "height": 8849,
+      "continent": "Asia",
+      "first": 1953,
+      "country": "Nepal / China"
+    },
+    {
+      "name": "Aconcagua",
+      "height": 6961,
+      "continent": "South America",
+      "first": 1897,
+      "country": "Argentina"
+    },
+    {
+      "name": "Denali",
+      "height": 6190,
+      "continent": "North America",
+      "first": 1913,
+      "country": "USA (Alaska)"
+    },
+    {
+      "name": "Kilimanjaro",
+      "height": 5895,
+      "continent": "Africa",
+      "first": 1889,
+      "country": "Tanzania"
+    },
+    {
+      "name": "Elbrus",
+      "height": 5642,
+      "continent": "Europe",
+      "first": 1874,
+      "country": "Russia"
+    },
+    {
+      "name": "Vinson Massif",
+      "height": 4892,
+      "continent": "Antarctica",
+      "first": 1966,
+      "country": "Antarctica"
+    },
+    {
+      "name": "Puncak Jaya",
+      "height": 4884,
+      "continent": "Oceania",
+      "first": 1962,
+      "country": "Indonesia (Papua)"
+    }
+  ],
+  "firsts": [
+    {
+      "year": 1786,
+      "what": "First ascent of Mont Blanc",
+      "who": "Jacques Balmat, Michel-Gabriel Paccard"
+    },
+    {
+      "year": 1950,
+      "what": "First 8,000 m peak (Annapurna I)",
+      "who": "Maurice Herzog, Louis Lachenal"
+    },
+    {
+      "year": 1953,
+      "what": "First ascent of Everest",
+      "who": "Edmund Hillary, Tenzing Norgay"
+    },
+    {
+      "year": 1975,
+      "what": "First woman on Everest",
+      "who": "Junko Tabei"
+    },
+    {
+      "year": 1978,
+      "what": "First Everest ascent without bottled oxygen",
+      "who": "Reinhold Messner, Peter Habeler"
+    },
+    {
+      "year": 1980,
+      "what": "First winter ascent of Everest",
+      "who": "Leszek Cichy, Krzysztof Wielicki"
+    },
+    {
+      "year": 1980,
+      "what": "First solo Everest ascent",
+      "who": "Reinhold Messner"
+    },
+    {
+      "year": 1986,
+      "what": "First to climb all fourteen 8,000 m peaks",
+      "who": "Reinhold Messner"
+    },
+    {
+      "year": 2010,
+      "what": "Youngest Everest summiteer (age 13)",
+      "who": "Jordan Romero"
+    },
+    {
+      "year": 2013,
+      "what": "Oldest Everest summiteer (age 80)",
+      "who": "Yuichiro Miura"
+    },
+    {
+      "year": 2019,
+      "what": "Fourteen 8,000 m peaks in 6 months and 6 days",
+      "who": "Nirmal Purja"
+    },
+    {
+      "year": 2021,
+      "what": "First winter ascent of K2",
+      "who": "A team of ten Nepali climbers"
+    },
+    {
+      "year": 2023,
+      "what": "Fourteen 8,000 m peaks in 92 days",
+      "who": "Kristin Harila, Tenjen Lama Sherpa"
+    }
+  ],
+  "current": [
+    {
+      "label": "Most Everest summits",
+      "value": "32",
+      "who": "Kami Rita Sherpa, 17 May 2026"
+    },
+    {
+      "label": "Most Everest summits by a woman",
+      "value": "11",
+      "who": "Lhakpa Sherpa, 17 May 2026"
+    },
+    {
+      "label": "Most summits in one day (Nepal side)",
+      "value": "274",
+      "who": "20 May 2026"
+    },
+    {
+      "label": "Everest permits in one spring",
+      "value": "494",
+      "who": "Spring 2026, a record"
+    }
+  ],
+  "disasters": [
+    {
+      "year": 1996,
+      "text": "Eight people die in one storm on 10 and 11 May."
+    },
+    {
+      "year": 2014,
+      "text": "An avalanche in the Khumbu Icefall kills sixteen Nepali guides on 18 April."
+    },
+    {
+      "year": 2015,
+      "text": "An earthquake triggers an avalanche that hits Base Camp; at least nineteen people die."
+    },
+    {
+      "year": 2023,
+      "text": "The deadliest Everest season on record by many counts, with 17 or 18 deaths depending on the source."
+    }
+  ]
+}

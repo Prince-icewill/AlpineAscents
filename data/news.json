@@ -1,0 +1,73 @@
+{
+  "intro": "A few things that have changed in the last couple of years. Check the sources linked on each item for full details.",
+  "asOf": "October 2026",
+  "items": [
+    {
+      "date": "2026-05-24",
+      "tag": "Season",
+      "title": "Busiest Everest spring season on record",
+      "text": "By 24 May, 879 climbers and guides had reached the summit from the Nepal side, with roughly 75 more expected, and a record 494 permits had been issued. A record 274 people summited on a single day, 20 May.",
+      "source": "Everest Chronicle",
+      "url": "https://everestchronicle.com/everest-records-busiest-spring-climbing-season-on-record"
+    },
+    {
+      "date": "2026-05-17",
+      "tag": "Records",
+      "title": "Kami Rita Sherpa climbs Everest for the 32nd time",
+      "text": "Kami Rita extended his own record on 17 May. On the same day Lhakpa Sherpa reached the top for the 11th time, the most for any woman.",
+      "source": "Nepal Department of Tourism",
+      "url": "https://tourismdepartment.gov.np/content/168/press-release-on-everest-history-rewritten--32/"
+    },
+    {
+      "date": "2026-03-24",
+      "tag": "Rules",
+      "title": "New Khumbu Icefall fee and stricter waste rules",
+      "text": "Foreign climbers on Everest, Lhotse and Nuptse pay a $600 icefall route fee from spring 2026. Waste rules now ask climbers to bring down 8 kg of rubbish, at least 2 kg of it from above Camp II.",
+      "source": "Nepal Traveller",
+      "url": "https://nepaltraveller.com/news/everest-climbers-face-600-khumbu-icefall-fee-as-waste-rules-tighten-at-base-camp"
+    },
+    {
+      "date": "2026-02-19",
+      "tag": "Sport",
+      "title": "Ski mountaineering makes its Olympic debut",
+      "text": "Skimo was added to the Winter Olympics in Milan Cortina, with races in Bormio, Italy. Marianne Fatton of Switzerland and Oriol Cardona Coll of Spain won the first sprint titles.",
+      "source": "NBC Olympics",
+      "url": "https://www.nbcolympics.com/news/ski-mountaineering-2026-milan-cortina-winter-olympics"
+    },
+    {
+      "date": "2025-01-01",
+      "dateLabel": "2025",
+      "tag": "Rules",
+      "title": "Everest permit fee rises to $15,000",
+      "text": "The fee for foreign climbers on the Nepal side went up from $11,000 to $15,000.",
+      "source": "Everest Chronicle",
+      "url": "https://everestchronicle.com/everest-records-busiest-spring-climbing-season-on-record"
+    },
+    {
+      "date": "2024-03-07",
+      "tag": "Safety",
+      "title": "GPS tracking chips become compulsory on Everest",
+      "text": "After a deadly 2023 season, Nepal's tourism department made tracking chips or GPS devices mandatory for climbers and guides, to make search and rescue quicker.",
+      "source": "The Kathmandu Post",
+      "url": "https://kathmandupost.com/money/2024/03/07/tracking-chip-now-mandatory-for-everest-aspirants"
+    }
+  ],
+  "trends": [
+    {
+      "title": "More rules, fewer shortcuts",
+      "text": "Nepal has been tightening requirements around permits, tracking and waste. Reports also mention an experience requirement for Everest climbers; check the Department of Tourism for the current text before you plan a trip."
+    },
+    {
+      "title": "Crowding",
+      "text": "Record permit numbers mean queues at the Hillary Step area and long waits at the top in good-weather windows. Guides argue for staggering summit days."
+    },
+    {
+      "title": "Cleaner mountains",
+      "text": "Clean-up expeditions and 'carry out what you carry in' rules are now standard on the Nepal side."
+    },
+    {
+      "title": "Technology",
+      "text": "Better forecasting, satellite messengers and lighter kit have changed how teams plan, though none of them replaces experience."
+    }
+  ]
+}

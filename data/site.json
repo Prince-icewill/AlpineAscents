@@ -1,0 +1,110 @@
+{
+  "name": "Alpine Ascents",
+  "tagline": "Know the mountain before you climb it",
+  "hero": {
+    "title": "Climb smart. Come back down.",
+    "text": "Alpine Ascents is a guide to mountaineering for people who want the real picture: where it came from, how it is done, what can go wrong and who to climb with. Pick a topic from the menu or start with the story below.",
+    "image": "assets/img/everest-dawn.svg"
+  },
+  "facts": [
+    {
+      "label": "Highest point on land",
+      "value": "8,849 m",
+      "note": "Mount Everest, Nepal and China"
+    },
+    {
+      "label": "First ascent of Everest",
+      "value": "1953",
+      "note": "Hillary and Tenzing, 29 May"
+    },
+    {
+      "label": "Everest summits, spring 2026",
+      "value": "879+",
+      "note": "busiest season on record"
+    },
+    {
+      "label": "Oldest alpine club",
+      "value": "1857",
+      "note": "The Alpine Club, London"
+    }
+  ],
+  "cards": [
+    {
+      "route": "history",
+      "title": "History",
+      "icon": "bi-hourglass-split",
+      "text": "From Mont Blanc in 1786 to the Sherpa climbers who set today's records.",
+      "img": "assets/img/history-engraving.svg"
+    },
+    {
+      "route": "styles",
+      "title": "Types and Styles",
+      "icon": "bi-diagram-3",
+      "text": "Alpine style, expedition style, ice, rock, ski. They are not the same sport.",
+      "img": "assets/img/ice-climbing.svg"
+    },
+    {
+      "route": "techniques",
+      "title": "Techniques",
+      "icon": "bi-bezier2",
+      "text": "Ropework, crampons, self-arrest, glacier travel and how to pace a long day.",
+      "img": "assets/img/glacier-team.svg"
+    },
+    {
+      "route": "shelter",
+      "title": "Sheltering",
+      "icon": "bi-house-door",
+      "text": "Tents, bivouacs, snow caves and the huts that keep people alive.",
+      "img": "assets/img/high-camp.svg"
+    },
+    {
+      "route": "hazards",
+      "title": "Hazards",
+      "icon": "bi-exclamation-triangle",
+      "text": "Altitude, avalanches, cold, crevasses and weather, and what to do about each.",
+      "img": "assets/img/k2-storm.svg"
+    },
+    {
+      "route": "records",
+      "title": "Records",
+      "icon": "bi-trophy",
+      "text": "The fourteen 8,000 m peaks, the Seven Summits and the people behind the numbers.",
+      "img": "assets/img/summit-ridge.svg"
+    },
+    {
+      "route": "clubs",
+      "title": "Clubs and Map",
+      "icon": "bi-geo-alt",
+      "text": "Mountaineering clubs around the world, on a map, with distances from you.",
+      "img": "assets/img/mountain-hut.svg"
+    },
+    {
+      "route": "stories",
+      "title": "Success Stories",
+      "icon": "bi-flag",
+      "text": "Expeditions that worked, and what the people involved learned.",
+      "img": "assets/img/prayer-flags.svg"
+    },
+    {
+      "route": "gallery",
+      "title": "Gallery",
+      "icon": "bi-images",
+      "text": "Pictures and short explainer videos.",
+      "img": "assets/img/denali-aurora.svg"
+    },
+    {
+      "route": "latest",
+      "title": "Latest Developments",
+      "icon": "bi-newspaper",
+      "text": "New rules on Everest, a record season, and skimo at the Olympics.",
+      "img": "assets/img/matterhorn-noon.svg"
+    },
+    {
+      "route": "guidelines",
+      "title": "Guidelines",
+      "icon": "bi-clipboard-check",
+      "text": "A plain checklist for planning a first serious climb.",
+      "img": "assets/img/aconcagua-dusk.svg"
+    }
+  ]
+}

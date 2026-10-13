@@ -1,0 +1,122 @@
+{
+  "intro": "Mountains have two kinds of danger. Objective hazards, like avalanches and rockfall, are there whether or not you are. Subjective hazards come from us: poor planning, fatigue, ego, a group that will not turn back. Most accidents involve both.",
+  "items": [
+    {
+      "name": "Altitude illness",
+      "type": "Objective",
+      "risk": 5,
+      "icon": "bi-lungs",
+      "summary": "Acute mountain sickness (AMS) can begin from about 2,500 m. Left alone it can become HAPE (fluid in the lungs) or HACE (swelling of the brain), both of which are fatal.",
+      "signs": "Headache, nausea, dizziness, poor sleep. Warning signs of the severe forms: breathlessness at rest, a wet cough, confusion, loss of balance.",
+      "prevent": "Ascend slowly, rest days, drink water, avoid alcohol and sleeping pills.",
+      "response": "Stop climbing up. If symptoms are worsening, descend at once. Descent is the main treatment, with oxygen and medical help."
+    },
+    {
+      "name": "Avalanche",
+      "type": "Objective",
+      "risk": 5,
+      "icon": "bi-cloud-snow",
+      "summary": "A slab of snow breaks loose and slides. Most victims are caught on 30 to 45 degree slopes.",
+      "signs": "Fresh heavy snowfall, wind loading, cracks shooting out from your feet, a 'whumpf' sound.",
+      "prevent": "Check the bulletin. Avoid steep slopes after snow or sun. Cross one at a time.",
+      "response": "Companions search first, using the transceiver, probe and shovel. Chances of survival fall quickly after about fifteen minutes."
+    },
+    {
+      "name": "Hypothermia",
+      "type": "Objective",
+      "risk": 4,
+      "icon": "bi-thermometer-snow",
+      "summary": "Body temperature falls below 35 °C. Wet clothes and wind make it far more likely.",
+      "signs": "Shivering, then clumsiness, slurred speech, apathy. Shivering stopping in a cold person is a bad sign.",
+      "prevent": "Layer well, stay dry, eat and drink often, shelter from wind.",
+      "response": "Get out of the wind, replace wet clothing, insulate from the ground, give warm sweet drinks if the person is alert, and call for help."
+    },
+    {
+      "name": "Frostbite",
+      "type": "Objective",
+      "risk": 4,
+      "icon": "bi-snow3",
+      "summary": "Tissue freezes, usually fingers, toes, nose and ears.",
+      "signs": "Numb, white or waxy skin that feels hard.",
+      "prevent": "Keep extremities covered and dry. Loosen tight boots. Check partners' faces.",
+      "response": "Do not rub. Rewarm in warm (not hot) water only if there is no chance of it freezing again, then seek medical care."
+    },
+    {
+      "name": "Crevasses",
+      "type": "Objective",
+      "risk": 4,
+      "icon": "bi-slash-circle",
+      "summary": "Cracks in glacier ice, often hidden under snow bridges that weaken as the day warms.",
+      "signs": "Slight dips or sagging lines in the snow, especially where a glacier bends.",
+      "prevent": "Rope up, move early in the day while the snow is firm, probe when unsure.",
+      "response": "Brace and arrest the fall, anchor, then haul the climber out with a pulley system."
+    },
+    {
+      "name": "Weather",
+      "type": "Objective",
+      "risk": 5,
+      "icon": "bi-cloud-lightning-rain",
+      "summary": "Storms, whiteouts, lightning and wind can arrive quickly and make a simple route dangerous.",
+      "signs": "Lenticular clouds, a sudden drop in pressure, building cloud, rising wind.",
+      "prevent": "Check forecasts from several sources and start early so you are down before the afternoon.",
+      "response": "Turn back early. Get off ridges and summits if there is lightning, and take shelter in a hollow with your pack under you."
+    },
+    {
+      "name": "Rockfall and icefall",
+      "type": "Objective",
+      "risk": 3,
+      "icon": "bi-bricks",
+      "summary": "Stones and ice blocks fall from above, often set off by the sun, other climbers, or animals.",
+      "signs": "Debris at the foot of a slope, whistling, the sound of stones.",
+      "prevent": "Wear a helmet. Move under dangerous ground quickly and early.",
+      "response": "Shout 'ROCK!' and take cover. Never stop in a gully."
+    },
+    {
+      "name": "Sun and snow blindness",
+      "type": "Objective",
+      "risk": 2,
+      "icon": "bi-sun",
+      "summary": "UV radiation is stronger at height, and snow reflects it. Burned corneas are very painful.",
+      "signs": "Gritty, watery eyes several hours after exposure.",
+      "prevent": "Wear category 4 glacier glasses and sun cream, even on cloudy days.",
+      "response": "Rest in a dark place; cool compresses. Carry a spare pair of dark glasses."
+    },
+    {
+      "name": "Fatigue and poor decisions",
+      "type": "Subjective",
+      "risk": 5,
+      "icon": "bi-person-exclamation",
+      "summary": "Most fatal accidents on big mountains happen on the way down, when people are exhausted and past their limits.",
+      "signs": "Clumsy footwork, forgetting to eat or drink, tunnel vision on the summit.",
+      "prevent": "Set a turnaround time and obey it. Agree that anyone can call off the climb.",
+      "response": "Turn around. The summit is optional; getting down is not."
+    }
+  ],
+  "zones": [
+    {
+      "band": "Up to 2,500 m",
+      "name": "Low altitude",
+      "note": "Most people feel fine. Some mild breathlessness."
+    },
+    {
+      "band": "2,500 to 3,500 m",
+      "name": "Moderate",
+      "note": "AMS can begin. Rest days matter from here."
+    },
+    {
+      "band": "3,500 to 5,500 m",
+      "name": "High",
+      "note": "AMS common. HAPE and HACE are real risks if you go up too fast."
+    },
+    {
+      "band": "5,500 to 8,000 m",
+      "name": "Very high",
+      "note": "Few people stay here for long. Weight loss and poor sleep."
+    },
+    {
+      "band": "Above 8,000 m",
+      "name": "The 'death zone'",
+      "note": "Air pressure about a third of sea level. The body cannot acclimatise fully. Most people use bottled oxygen."
+    }
+  ]
+}

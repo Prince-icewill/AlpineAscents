@@ -1,0 +1,149 @@
+{
+  "intro": "Good technique is mostly about doing small things correctly, every time, even when you are tired and cold. These are the basics every climber should be able to do without thinking.",
+  "items": [
+    {
+      "name": "Moving with an ice axe",
+      "cat": "Snow and ice",
+      "icon": "bi-tools",
+      "summary": "Your axe is a walking stick, a brake and a belay anchor.",
+      "steps": [
+        "Hold the axe in the uphill hand on a slope so you can use the pick to brake.",
+        "Plunge the shaft in all the way before each step on steep snow.",
+        "Keep your weight over your feet and your balance low.",
+        "Practise the positions on a safe slope before you ever need them."
+      ]
+    },
+    {
+      "name": "Self-arrest",
+      "cat": "Snow and ice",
+      "icon": "bi-brake-warning",
+      "summary": "How to stop yourself after a slip on a snow slope. It has to be automatic.",
+      "steps": [
+        "Roll onto your front so the pick is under your chest, one hand on the head of the axe and one on the shaft.",
+        "Dig the pick in with your body weight over it.",
+        "Lift your hips and spread your feet; keep your crampons off the snow so they do not catch.",
+        "Hold on until you stop, then get up carefully."
+      ]
+    },
+    {
+      "name": "Crampon technique",
+      "cat": "Snow and ice",
+      "icon": "bi-gear",
+      "summary": "Steel spikes under your boots that turn ice into a staircase.",
+      "steps": [
+        "Flat-footing: put all the points in at once on moderate slopes, ankles bent.",
+        "Front-pointing: kick the front points in for steep ice and keep your heels low.",
+        "Walk with feet slightly apart so the points do not snag your trouser legs.",
+        "Remove crampons on rock; they slip and they wear the points."
+      ]
+    },
+    {
+      "name": "Rope team travel",
+      "cat": "Glaciers",
+      "icon": "bi-link-45deg",
+      "summary": "Climbers tied together over a glacier so one fall does not become a disaster.",
+      "steps": [
+        "Space the climbers around 8 to 12 m apart with the rope tight enough not to drag on the snow.",
+        "Carry a few coils in your hand or pack for emergencies.",
+        "Keep the rope off the snow behind you so it does not catch crevasse edges.",
+        "Never untie on a glacier until you are well off it."
+      ]
+    },
+    {
+      "name": "Crevasse rescue",
+      "cat": "Glaciers",
+      "icon": "bi-arrow-down-up",
+      "summary": "If a teammate falls into a crevasse, the rest of the team has to get them out.",
+      "steps": [
+        "Brace at once and drop into the self-arrest position when someone falls.",
+        "Build an anchor in the snow, move the load onto it, then talk to the person who fell.",
+        "Set up a pulley system (a 3:1 or 'Z-pulley') to haul them out.",
+        "Practise this with your own team in daylight before you need it."
+      ]
+    },
+    {
+      "name": "Belaying and rappelling",
+      "cat": "Rope work",
+      "icon": "bi-diagram-2",
+      "summary": "Controlling the rope for a climber, and getting down without the rope failing.",
+      "steps": [
+        "Check the knot, harness and belay device every time. A buddy check takes five seconds.",
+        "Keep the brake hand on the rope at all times.",
+        "For a rappel, back up with a prusik or autoblock below the device.",
+        "Knot the ends of the ropes so you cannot slide off the end."
+      ]
+    },
+    {
+      "name": "Anchors",
+      "cat": "Rope work",
+      "icon": "bi-pin-angle",
+      "summary": "Whatever you clip into has to hold a fall. Anchors are built from several pieces, never one.",
+      "steps": [
+        "Use at least two or three independent points: rock, ice screws, snow pickets or trees.",
+        "Equalise them so the load is shared.",
+        "Test by pulling hard in the direction of a fall.",
+        "Do not trust old slings and old bolts without checking."
+      ]
+    },
+    {
+      "name": "Acclimatisation",
+      "cat": "Altitude",
+      "icon": "bi-graph-up-arrow",
+      "summary": "The body needs days to adapt to thin air. There is no way to rush it.",
+      "steps": [
+        "Above about 3,000 m, raise your sleeping altitude by 300 to 500 m a day.",
+        "Take a rest day every 3 to 4 days.",
+        "Climb high, sleep low: go up during the day, return lower to sleep.",
+        "Drink plenty of water and eat, even when you have no appetite."
+      ]
+    },
+    {
+      "name": "Pacing and breathing",
+      "cat": "Altitude",
+      "icon": "bi-speedometer2",
+      "summary": "Climbers who go too fast early are the ones who stall at the top.",
+      "steps": [
+        "Use the rest step on steep ground: lock your back knee for a second between steps.",
+        "Match your breathing to your steps; use pressure breathing (strong out-breath) at height.",
+        "Keep a pace where you could still hold a conversation.",
+        "Set a turnaround time before you leave and keep to it."
+      ]
+    },
+    {
+      "name": "Layering",
+      "cat": "Staying warm",
+      "icon": "bi-thermometer-half",
+      "summary": "Three layers you can add and take off, so you never sweat and then freeze.",
+      "steps": [
+        "Base layer that moves sweat away from your skin.",
+        "Insulation layer: fleece or a synthetic or down jacket.",
+        "Shell layer that blocks wind and water.",
+        "Take a layer off before you sweat, not after."
+      ]
+    },
+    {
+      "name": "Navigation",
+      "cat": "Route finding",
+      "icon": "bi-compass",
+      "summary": "A whiteout takes away the horizon. Plan ahead because you will not see where you are going.",
+      "steps": [
+        "Carry a map, compass and a GPS or phone with offline maps. Learn to use all three.",
+        "Take compass bearings and mark waypoints on the way up, so you can find the same line back down.",
+        "Note landmarks and wand markers on the descent.",
+        "If visibility drops and you cannot navigate, stop and wait."
+      ]
+    },
+    {
+      "name": "Avalanche safety",
+      "cat": "Snow safety",
+      "icon": "bi-broadcast",
+      "summary": "Most avalanche victims trigger the slide themselves. Read the forecast and carry the right kit.",
+      "steps": [
+        "Read the avalanche bulletin the night before and again in the morning.",
+        "Everyone carries a transceiver, probe and shovel, and knows how to use them.",
+        "Cross suspect slopes one at a time, and avoid the 30 to 45 degree slopes after fresh snow.",
+        "If caught, try to swim and keep a hand over your mouth to make an air pocket."
+      ]
+    }
+  ]
+}

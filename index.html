@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Alpine Ascents | Mountaineering guide</title>
+  <meta name="description" content="Alpine Ascents is a single-page guide to mountaineering: history, styles, techniques, shelter, hazards, records, clubs, stories and the latest news.">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="stylesheet" href="vendor/bootstrap.min.css">
+  <link rel="stylesheet" href="vendor/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#view">Skip to content</a>
+
+  <header class="site-header">
+    <div class="topbar">
+      <div class="container-xl d-flex align-items-center justify-content-between">
+        <a class="brand" href="#/home" aria-label="Alpine Ascents home">
+          <span class="brand-name">Alpine Ascents</span>
+          <span class="brand-tag d-none d-md-inline">Know the mountain before you climb it</span>
+        </a>
+        <div class="visitor-box" title="Visitors">
+          <img class="logo-img" src="assets/img/logo.svg" alt="Alpine Ascents logo" width="40" height="40">
+          <div class="visitor-text">
+            <span class="visitor-label">Visitors</span>
+            <span id="visitorCount" class="odometer" aria-live="polite" aria-label="Visitor count">000000</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <nav class="navbar navbar-expand-lg main-nav" aria-label="Main menu">
+      <div class="container-xl">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainMenu" aria-controls="mainMenu" aria-expanded="false" aria-label="Open menu">
+          <i class="bi bi-list"></i><span class="ms-2">Menu</span>
+        </button>
+        <div class="collapse navbar-collapse" id="mainMenu">
+          <ul class="navbar-nav me-auto">
+            <li class="nav-item"><a class="nav-link" data-route="home" href="#/home"><i class="bi bi-house-door"></i> Home</a></li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" data-group="about" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-compass"></i> Mountaineering</a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" data-route="history" href="#/history">History</a></li>
+                <li><a class="dropdown-item" data-route="styles" href="#/styles">Types and Styles</a></li>
+                <li><a class="dropdown-item" data-route="techniques" href="#/techniques">Techniques</a></li>
+                <li><a class="dropdown-item" data-route="shelter" href="#/shelter">Sheltering</a></li>
+                <li><a class="dropdown-item" data-route="hazards" href="#/hazards">Hazards</a></li>
+                <li><a class="dropdown-item" data-route="records" href="#/records">Records</a></li>
+              </ul>
+            </li>
+            <li class="nav-item"><a class="nav-link" data-route="clubs" href="#/clubs"><i class="bi bi-geo-alt"></i> Clubs and Map</a></li>
+            <li class="nav-item"><a class="nav-link" data-route="stories" href="#/stories"><i class="bi bi-flag"></i> Success Stories</a></li>
+            <li class="nav-item"><a class="nav-link" data-route="gallery" href="#/gallery"><i class="bi bi-images"></i> Gallery</a></li>
+            <li class="nav-item"><a class="nav-link" data-route="latest" href="#/latest"><i class="bi bi-newspaper"></i> Latest</a></li>
+            <li class="nav-item"><a class="nav-link" data-route="guidelines" href="#/guidelines"><i class="bi bi-clipboard-check"></i> Guidelines</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <main id="view" class="view" tabindex="-1">
+    <div class="loading container-xl py-5"><div class="spinner-border text-primary" role="status"></div> <span class="ms-2">Loading the mountain...</span></div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container-xl d-flex flex-wrap justify-content-between gap-2">
+      <span>Alpine Ascents &middot; an eProject study site about mountaineering.</span>
+      <span>Climbing is dangerous. This site is a guide, not a replacement for training or a qualified guide.</span>
+    </div>
+  </footer>
+
+  <!-- continuous ticker: date, time, location -->
+  <div id="ticker" class="ticker" role="region" aria-label="Date, time and location ticker">
+    <button id="tickerToggle" class="ticker-btn" type="button" aria-label="Pause ticker" title="Pause or play"><i class="bi bi-pause-fill"></i></button>
+    <div class="ticker-window">
+      <div class="ticker-track" id="tickerTrack"></div>
+    </div>
+    <button id="tickerLoc" class="ticker-btn" type="button" aria-label="Update my location" title="Update my location"><i class="bi bi-geo-alt-fill"></i></button>
+  </div>
+
+  <!-- gallery lightbox -->
+  <div class="modal fade" id="lightbox" tabindex="-1" aria-hidden="true" aria-labelledby="lbTitle">
+    <div class="modal-dialog modal-xl modal-dialog-centered">
+      <div class="modal-content bg-dark text-white">
+        <div class="modal-header border-0">
+          <h2 class="modal-title h5" id="lbTitle"></h2>
+          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body text-center p-0 lb-body">
+          <button class="lb-nav lb-prev" type="button" aria-label="Previous picture"><i class="bi bi-chevron-left"></i></button>
+          <img id="lbImg" class="img-fluid" alt="">
+          <button class="lb-nav lb-next" type="button" aria-label="Next picture"><i class="bi bi-chevron-right"></i></button>
+        </div>
+        <div class="modal-footer border-0 justify-content-between"><span id="lbCaption"></span><span id="lbCount" class="text-white-50"></span></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="vendor/jquery.min.js"></script>
+  <script src="vendor/bootstrap.bundle.min.js"></script>
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script src="data/bundle.js"></script>
+  <script src="js/counter.js"></script>
+  <script src="js/ticker.js"></script>
+  <script src="js/map.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

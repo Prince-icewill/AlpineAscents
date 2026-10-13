@@ -1,0 +1,287 @@
+{
+  "intro": "These are mountaineering clubs and organisations from different regions. Locations are shown at city level. Click a marker or a card to see details, or allow your location to see how far each one is from you.",
+  "clubs": [
+    {
+      "id": "ac-uk",
+      "name": "The Alpine Club",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "city": "London",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "founded": 1857,
+      "focus": "Oldest mountaineering club in the world. Meets, library and archive, and the Alpine Journal.",
+      "offers": [
+        "Club meets",
+        "Library",
+        "Expedition grants support"
+      ],
+      "url": "https://www.alpine-club.org.uk"
+    },
+    {
+      "id": "sac",
+      "name": "Swiss Alpine Club (SAC)",
+      "country": "Switzerland",
+      "region": "Europe",
+      "city": "Bern",
+      "lat": 46.948,
+      "lng": 7.4474,
+      "founded": 1863,
+      "focus": "A national club that runs a large network of mountain huts across the Swiss Alps.",
+      "offers": [
+        "Mountain huts",
+        "Courses",
+        "Tour guides"
+      ],
+      "url": "https://www.sac-cas.ch"
+    },
+    {
+      "id": "cai",
+      "name": "Club Alpino Italiano (CAI)",
+      "country": "Italy",
+      "region": "Europe",
+      "city": "Milan",
+      "lat": 45.4642,
+      "lng": 9.19,
+      "founded": 1863,
+      "focus": "Italy's national mountaineering club, founded in Turin. Maintains hundreds of huts and paths.",
+      "offers": [
+        "Mountain huts",
+        "Courses",
+        "Trail maintenance"
+      ],
+      "url": "https://www.cai.it"
+    },
+    {
+      "id": "dav",
+      "name": "Deutscher Alpenverein (DAV)",
+      "country": "Germany",
+      "region": "Europe",
+      "city": "Munich",
+      "lat": 48.1351,
+      "lng": 11.582,
+      "founded": 1869,
+      "focus": "One of the largest mountaineering associations in the world, with over a million members.",
+      "offers": [
+        "Mountain huts",
+        "Courses",
+        "Climbing halls"
+      ],
+      "url": "https://www.alpenverein.de"
+    },
+    {
+      "id": "ffcam",
+      "name": "FFCAM (Club Alpin Français)",
+      "country": "France",
+      "region": "Europe",
+      "city": "Paris",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "founded": 1874,
+      "focus": "The French mountaineering and climbing federation, with huts around Chamonix and the Écrins.",
+      "offers": [
+        "Mountain huts",
+        "Courses",
+        "Group outings"
+      ],
+      "url": "https://www.ffcam.fr"
+    },
+    {
+      "id": "aac",
+      "name": "American Alpine Club",
+      "country": "United States",
+      "region": "Americas",
+      "city": "Golden, Colorado",
+      "lat": 39.7555,
+      "lng": -105.2211,
+      "founded": 1902,
+      "focus": "Publishes the American Alpine Journal and gives grants for climbing expeditions.",
+      "offers": [
+        "Grants",
+        "Rescue insurance",
+        "Huts"
+      ],
+      "url": "https://americanalpineclub.org"
+    },
+    {
+      "id": "acc",
+      "name": "Alpine Club of Canada",
+      "country": "Canada",
+      "region": "Americas",
+      "city": "Canmore, Alberta",
+      "lat": 51.0884,
+      "lng": -115.3479,
+      "founded": 1906,
+      "focus": "Runs backcountry huts and training courses in the Canadian Rockies.",
+      "offers": [
+        "Backcountry huts",
+        "Courses",
+        "Summer camps"
+      ],
+      "url": "https://www.alpineclubofcanada.ca"
+    },
+    {
+      "id": "aai",
+      "name": "Alpine Ascents International",
+      "country": "United States",
+      "region": "Americas",
+      "city": "Seattle, Washington",
+      "lat": 47.6062,
+      "lng": -122.3321,
+      "founded": 1991,
+      "focus": "A guiding company that leads climbs on Rainier, Denali, Aconcagua, Kilimanjaro and Everest.",
+      "offers": [
+        "Guided expeditions",
+        "Training courses"
+      ],
+      "url": "https://www.alpineascents.com"
+    },
+    {
+      "id": "cab",
+      "name": "Club Andino Boliviano",
+      "country": "Bolivia",
+      "region": "Americas",
+      "city": "La Paz",
+      "lat": -16.4897,
+      "lng": -68.1193,
+      "founded": 1939,
+      "focus": "Bolivia's mountaineering club, based in La Paz at around 3,600 m, close to the high Andes.",
+      "offers": [
+        "Andean climbs",
+        "Club meets"
+      ],
+      "url": null
+    },
+    {
+      "id": "nma",
+      "name": "Nepal Mountaineering Association",
+      "country": "Nepal",
+      "region": "Asia",
+      "city": "Kathmandu",
+      "lat": 27.7172,
+      "lng": 85.324,
+      "founded": 1973,
+      "focus": "Represents Nepali mountaineering and issues permits for the trekking peaks.",
+      "offers": [
+        "Trekking peak permits",
+        "Training"
+      ],
+      "url": null
+    },
+    {
+      "id": "hmi",
+      "name": "Himalayan Mountaineering Institute",
+      "country": "India",
+      "region": "Asia",
+      "city": "Darjeeling",
+      "lat": 27.041,
+      "lng": 88.2663,
+      "founded": 1954,
+      "focus": "Founded after the 1953 Everest climb, with Tenzing Norgay as its first director of field training.",
+      "offers": [
+        "Basic and advanced courses",
+        "Museum"
+      ],
+      "url": null
+    },
+    {
+      "id": "imf",
+      "name": "Indian Mountaineering Foundation",
+      "country": "India",
+      "region": "Asia",
+      "city": "New Delhi",
+      "lat": 28.6139,
+      "lng": 77.209,
+      "founded": 1961,
+      "focus": "The national body for mountaineering in India. Organises expeditions and handles peak permits.",
+      "offers": [
+        "Expeditions",
+        "Permits",
+        "Rescue support"
+      ],
+      "url": "https://indmount.org"
+    },
+    {
+      "id": "jac",
+      "name": "Japanese Alpine Club",
+      "country": "Japan",
+      "region": "Asia",
+      "city": "Tokyo",
+      "lat": 35.6762,
+      "lng": 139.6503,
+      "founded": 1905,
+      "focus": "One of Asia's oldest alpine clubs. Japanese teams have a long record in the Himalaya.",
+      "offers": [
+        "Club meets",
+        "Expeditions"
+      ],
+      "url": null
+    },
+    {
+      "id": "acp",
+      "name": "Alpine Club of Pakistan",
+      "country": "Pakistan",
+      "region": "Asia",
+      "city": "Islamabad",
+      "lat": 33.6844,
+      "lng": 73.0479,
+      "founded": null,
+      "focus": "Supports climbing in the Karakoram, home to K2 and three other 8,000 m peaks.",
+      "offers": [
+        "Karakoram expeditions",
+        "Permits"
+      ],
+      "url": null
+    },
+    {
+      "id": "mcsa",
+      "name": "Mountain Club of South Africa",
+      "country": "South Africa",
+      "region": "Africa",
+      "city": "Cape Town",
+      "lat": -33.9249,
+      "lng": 18.4241,
+      "founded": 1891,
+      "focus": "Climbing, hiking and mountain rescue around Table Mountain and the Drakensberg.",
+      "offers": [
+        "Rescue",
+        "Courses",
+        "Club meets"
+      ],
+      "url": "https://mcsa.org.za"
+    },
+    {
+      "id": "mck",
+      "name": "Mountain Club of Kenya",
+      "country": "Kenya",
+      "region": "Africa",
+      "city": "Nairobi",
+      "lat": -1.2921,
+      "lng": 36.8219,
+      "founded": 1949,
+      "focus": "Climbs on Mount Kenya, Kilimanjaro and Rift Valley crags.",
+      "offers": [
+        "Climbs",
+        "Courses"
+      ],
+      "url": null
+    },
+    {
+      "id": "nzac",
+      "name": "New Zealand Alpine Club",
+      "country": "New Zealand",
+      "region": "Oceania",
+      "city": "Christchurch",
+      "lat": -43.5321,
+      "lng": 172.6362,
+      "founded": 1891,
+      "focus": "Backcountry huts and mountaineering in the Southern Alps, the training ground of Edmund Hillary.",
+      "offers": [
+        "Huts",
+        "Courses",
+        "Club trips"
+      ],
+      "url": null
+    }
+  ]
+}

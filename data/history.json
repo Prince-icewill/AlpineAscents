@@ -1,0 +1,131 @@
+{
+  "intro": "People have been walking up mountains for as long as there have been mountains, but mountaineering as a sport, climbing because you want to, is much younger. Most historians put the start at the late 1700s, when a few curious people in the Alps began to treat the summits as something worth reaching.",
+  "image": "assets/img/history-engraving.svg",
+  "eras": [
+    {
+      "name": "Early ascents",
+      "years": "1300s to 1700s",
+      "items": [
+        {
+          "year": "1336",
+          "title": "Petrarch on Mont Ventoux",
+          "text": "The Italian poet Petrarch is said to have climbed Mont Ventoux in France just to look at the view. It is not a hard climb, but people still cite it as one of the first ascents made for its own sake."
+        },
+        {
+          "year": "1492",
+          "title": "Mont Aiguille",
+          "text": "King Charles VIII of France ordered his officer Antoine de Ville to climb Mont Aiguille. His party used ladders and ropes, so many see this as the first real technical climb."
+        },
+        {
+          "year": "1786",
+          "title": "Mont Blanc",
+          "text": "On 8 August, Jacques Balmat and Michel-Gabriel Paccard reached the top of Mont Blanc (4,808 m), the highest peak in the Alps. The scientist Horace-Bénédict de Saussure had offered a prize for it, and he climbed it himself the next year."
+        }
+      ]
+    },
+    {
+      "name": "The Golden Age of Alpinism",
+      "years": "1854 to 1865",
+      "items": [
+        {
+          "year": "1854",
+          "title": "Wetterhorn",
+          "text": "Alfred Wills climbs the Wetterhorn in Switzerland. British climbers, often with local guides, then begin to claim the great Alpine summits one after another."
+        },
+        {
+          "year": "1857",
+          "title": "The Alpine Club",
+          "text": "The Alpine Club is founded in London. It is the oldest mountaineering club in the world. Swiss and Italian clubs follow in 1863."
+        },
+        {
+          "year": "1865",
+          "title": "Matterhorn",
+          "text": "Edward Whymper's party reaches the Matterhorn on 14 July. Four of the seven climbers fall to their deaths on the way down. The accident shocked Europe and started the first serious public argument about whether climbing was worth the risk."
+        }
+      ]
+    },
+    {
+      "name": "Going higher",
+      "years": "1900s to 1950s",
+      "items": [
+        {
+          "year": "1924",
+          "title": "Mallory and Irvine",
+          "text": "George Mallory and Andrew Irvine disappear high on Everest on 8 June. Whether they reached the top before they died is still debated. Mallory's body was found in 1999."
+        },
+        {
+          "year": "1938",
+          "title": "Eiger north face",
+          "text": "Anderl Heckmair, Ludwig Vörg, Heinrich Harrer and Fritz Kasparek complete the first ascent of the Eiger's north face. Several climbers had died trying before them."
+        },
+        {
+          "year": "1950",
+          "title": "Annapurna",
+          "text": "Maurice Herzog and Louis Lachenal of France reach the top of Annapurna I on 3 June. It is the first of the fourteen 8,000 m peaks to be climbed."
+        },
+        {
+          "year": "1953",
+          "title": "Everest",
+          "text": "Edmund Hillary of New Zealand and Tenzing Norgay, a Sherpa from Nepal, stand on top of Everest on 29 May at the end of a large British expedition led by John Hunt."
+        },
+        {
+          "year": "1954",
+          "title": "K2",
+          "text": "Achille Compagnoni and Lino Lacedelli of Italy summit K2 on 31 July. K2 is lower than Everest but far harder and more dangerous."
+        }
+      ]
+    },
+    {
+      "name": "Lighter, faster, bolder",
+      "years": "1970s to 2000s",
+      "items": [
+        {
+          "year": "1975",
+          "title": "Junko Tabei",
+          "text": "Junko Tabei of Japan becomes the first woman to climb Everest, on 16 May, only twelve days after an avalanche buried her at Camp II."
+        },
+        {
+          "year": "1978",
+          "title": "No bottled oxygen",
+          "text": "Reinhold Messner and Peter Habeler climb Everest without supplementary oxygen. Many doctors of the time had said it could not be done."
+        },
+        {
+          "year": "1986",
+          "title": "All fourteen",
+          "text": "Messner finishes all fourteen 8,000 m peaks, the first person to do so, with no bottled oxygen on any of them."
+        },
+        {
+          "year": "1996",
+          "title": "A bad May on Everest",
+          "text": "A storm on 10 and 11 May kills eight people on the mountain in one day. The accident, and the books written about it, changed how the public sees commercial guiding."
+        }
+      ]
+    },
+    {
+      "name": "Now",
+      "years": "2010 to today",
+      "items": [
+        {
+          "year": "2019",
+          "title": "Project Possible",
+          "text": "Nirmal Purja of Nepal climbs all fourteen 8,000 m peaks in six months and six days. The earlier record was a little under eight years."
+        },
+        {
+          "year": "2021",
+          "title": "K2 in winter",
+          "text": "On 16 January ten Nepali climbers make the first winter ascent of K2, the last 8,000 m peak to be climbed in winter."
+        },
+        {
+          "year": "2023",
+          "title": "Fourteen in 92 days",
+          "text": "Kristin Harila of Norway and Tenjen Lama Sherpa finish the fourteen peaks in 92 days."
+        },
+        {
+          "year": "2026",
+          "title": "A record spring",
+          "text": "Kami Rita Sherpa reaches the top of Everest for the 32nd time on 17 May. The season sets records for permits and total summits."
+        }
+      ]
+    }
+  ]
+}

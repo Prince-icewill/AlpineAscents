@@ -1,0 +1,8 @@
+{
+  "name": "alpine-ascents",
+  "version": "1.0.0",
+  "description": "Alpine Ascents - a single page, responsive mountaineering guide (eProject)",
+  "scripts": { "start": "node server.js" },
+  "license": "UNLICENSED",
+  "private": true
+}

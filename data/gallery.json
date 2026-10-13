@@ -1,0 +1,128 @@
+{
+  "intro": "Illustrations of the places and moments this site is about, and a few short explainer videos made for the project.",
+  "pictures": [
+    {
+      "file": "everest-dawn.svg",
+      "title": "Everest at dawn",
+      "cat": "Peaks",
+      "caption": "The summit pyramid catching the first light."
+    },
+    {
+      "file": "k2-storm.svg",
+      "title": "K2 as the storm builds",
+      "cat": "Peaks",
+      "caption": "Weather turns quickly in the Karakoram."
+    },
+    {
+      "file": "matterhorn-noon.svg",
+      "title": "A pyramid peak in clear weather",
+      "cat": "Peaks",
+      "caption": "A rope team heading for the summit ridge."
+    },
+    {
+      "file": "denali-aurora.svg",
+      "title": "Denali and the northern lights",
+      "cat": "Peaks",
+      "caption": "Night over the Alaska Range."
+    },
+    {
+      "file": "aconcagua-dusk.svg",
+      "title": "Aconcagua at dusk",
+      "cat": "Peaks",
+      "caption": "The highest peak in the Andes."
+    },
+    {
+      "file": "kilimanjaro.svg",
+      "title": "Kilimanjaro at sunrise",
+      "cat": "Peaks",
+      "caption": "A mountain you can climb without technical skills."
+    },
+    {
+      "file": "summit-ridge.svg",
+      "title": "Climbers on the summit ridge",
+      "cat": "Climbing",
+      "caption": "Roped together on the last stretch."
+    },
+    {
+      "file": "ice-climbing.svg",
+      "title": "Ice climbing",
+      "cat": "Climbing",
+      "caption": "Two tools, two crampons, and a lot of calf muscle."
+    },
+    {
+      "file": "glacier-team.svg",
+      "title": "Crossing a glacier",
+      "cat": "Climbing",
+      "caption": "A rope team steps around a crevasse."
+    },
+    {
+      "file": "high-camp.svg",
+      "title": "High camp at dusk",
+      "cat": "Camps and huts",
+      "caption": "Tents on a snow platform."
+    },
+    {
+      "file": "mountain-hut.svg",
+      "title": "Mountain hut at night",
+      "cat": "Camps and huts",
+      "caption": "Warm light in a cold valley."
+    },
+    {
+      "file": "prayer-flags.svg",
+      "title": "Prayer flags",
+      "cat": "Culture",
+      "caption": "Flags strung above a Himalayan valley."
+    },
+    {
+      "file": "history-engraving.svg",
+      "title": "An old-style engraving",
+      "cat": "Culture",
+      "caption": "Early climbers drew the Alps like this."
+    }
+  ],
+  "videos": [
+    {
+      "file": "altitude.mp4",
+      "poster": "altitude.jpg",
+      "title": "How thin does the air get?",
+      "text": "A 15 second look at how much oxygen is available at different heights, from sea level to the top of Everest.",
+      "length": "0:15"
+    },
+    {
+      "file": "route.mp4",
+      "poster": "route.jpg",
+      "title": "Everest South Col route",
+      "text": "The camps on the standard Nepal-side route and the height of each, from Base Camp to the summit.",
+      "length": "0:16"
+    },
+    {
+      "file": "sevensummits.mp4",
+      "poster": "sevensummits.jpg",
+      "title": "The Seven Summits",
+      "text": "The highest peak on each continent, drawn to scale against each other.",
+      "length": "0:14"
+    }
+  ],
+  "watch": [
+    {
+      "title": "Everest: 50 Years on the Mountain",
+      "by": "National Geographic, 2003",
+      "q": "Everest 50 Years on the Mountain National Geographic documentary"
+    },
+    {
+      "title": "Lost on Everest",
+      "by": "National Geographic, 2020",
+      "q": "Lost on Everest National Geographic Mallory Irvine documentary"
+    },
+    {
+      "title": "Climbing Everest with a Mountain on My Back",
+      "by": "BBC",
+      "q": "Climbing Everest with a Mountain on My Back BBC"
+    },
+    {
+      "title": "Mountain Queen: The Summits of Lhakpa Sherpa",
+      "by": "Netflix, 2022",
+      "q": "Mountain Queen Summits of Lhakpa Sherpa documentary"
+    }
+  ]
+}

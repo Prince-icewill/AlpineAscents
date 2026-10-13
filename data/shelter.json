@@ -1,0 +1,78 @@
+{
+  "intro": "Sleeping well on a mountain is part of climbing it. A good shelter keeps you dry, out of the wind and rested enough to make good decisions the next day.",
+  "items": [
+    {
+      "name": "Mountaineering tent",
+      "icon": "bi-triangle",
+      "text": "A strong, low tent built to take wind and snow loading. Double-wall tents are warmer and have less condensation. Single-wall tents are lighter.",
+      "tips": [
+        "Pitch with the narrow end into the wind.",
+        "Dig the platform flat and build snow walls on the windward side.",
+        "Keep the vents open even if it is cold, to limit condensation."
+      ],
+      "img": "assets/img/high-camp.svg"
+    },
+    {
+      "name": "Bivouac",
+      "icon": "bi-moon-stars",
+      "text": "Sleeping out with only a bivy bag, a sleeping bag and what you carry. Most often an emergency, sometimes a plan.",
+      "tips": [
+        "Find a ledge out of rockfall and wind.",
+        "Keep your boots and gloves inside the bag so they do not freeze.",
+        "Eat and drink before you settle in."
+      ],
+      "img": "assets/img/summit-ridge.svg"
+    },
+    {
+      "name": "Snow cave",
+      "icon": "bi-snow",
+      "text": "Dug into a deep, stable snow drift. Surprisingly warm and quiet, with temperatures near freezing even when it is far colder outside.",
+      "tips": [
+        "Dig a sleeping platform higher than the entrance so cold air stays below.",
+        "Make a ventilation hole in the roof and keep the entrance clear.",
+        "Keep your shovel inside with you."
+      ],
+      "img": "assets/img/ice-climbing.svg"
+    },
+    {
+      "name": "Igloo and quinzhee",
+      "icon": "bi-house",
+      "text": "An igloo is cut from blocks of firm snow. A quinzhee is a mound of snow that has set and been hollowed out. Both are slow to build but make a solid winter shelter.",
+      "tips": [
+        "Allow a few hours to build.",
+        "Wait for a quinzhee mound to harden before digging.",
+        "Mind the ventilation."
+      ],
+      "img": "assets/img/glacier-team.svg"
+    },
+    {
+      "name": "Mountain huts and refuges",
+      "icon": "bi-house-heart",
+      "text": "The Alps have a network of staffed huts, which makes multi-day trips possible without carrying a tent. The Capanna Regina Margherita, at 4,554 m on the Italian-Swiss border, is the highest hut in Europe.",
+      "tips": [
+        "Book ahead in summer.",
+        "Bring a sleeping bag liner, earplugs and a head torch.",
+        "Leave early; most climbers set off before dawn."
+      ],
+      "img": "assets/img/mountain-hut.svg"
+    },
+    {
+      "name": "Base camp and high camps",
+      "icon": "bi-buildings",
+      "text": "On big expeditions, Base Camp is a small town of tents with kitchen, dining and communications. Higher camps are small and basic, used only for a night or two.",
+      "tips": [
+        "Camp away from avalanche paths and icefall.",
+        "Treat waste properly. Many camps now require you to carry it down.",
+        "Tie down everything; a high-camp wind can take a tent."
+      ],
+      "img": "assets/img/prayer-flags.svg"
+    }
+  ],
+  "checklist": [
+    "Pick a site that is flat, out of the wind and away from avalanche runouts, rockfall and cornices.",
+    "Anchor every guy line with snow stakes, buried axes or rocks.",
+    "Ventilate any enclosed shelter. Carbon monoxide from a stove can kill.",
+    "Never cook inside a closed tent without ventilation, and never sleep with a stove burning.",
+    "Melt snow for water before you rest. Dehydration slows recovery."
+  ]
+}
